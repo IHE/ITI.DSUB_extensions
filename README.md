@@ -4,7 +4,7 @@ Extensions to the Document Metadata Subscription (DSUB)  Profile
 
 This is further improvements to the [Extensions to Document Metadata Subscription](https://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_Suppl_DSUB_Extensions.pdf) which is updating the [DSUB](https://profiles.ihe.net/ITI/TF/Volume1/ch-26.html) Profile.
 
-Public Comment - TBD
+Trial Implementation: February 2025
 
 This github repository holds the word document with changes.
 
